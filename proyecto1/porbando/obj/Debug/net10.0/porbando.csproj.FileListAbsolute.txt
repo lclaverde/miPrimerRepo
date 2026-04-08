@@ -1,0 +1,15 @@
+/workspaces/miPrimerRepo/proyecto1/porbando/bin/Debug/net10.0/porbando
+/workspaces/miPrimerRepo/proyecto1/porbando/bin/Debug/net10.0/porbando.deps.json
+/workspaces/miPrimerRepo/proyecto1/porbando/bin/Debug/net10.0/porbando.runtimeconfig.json
+/workspaces/miPrimerRepo/proyecto1/porbando/bin/Debug/net10.0/porbando.dll
+/workspaces/miPrimerRepo/proyecto1/porbando/bin/Debug/net10.0/porbando.pdb
+/workspaces/miPrimerRepo/proyecto1/porbando/obj/Debug/net10.0/porbando.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/miPrimerRepo/proyecto1/porbando/obj/Debug/net10.0/porbando.AssemblyInfoInputs.cache
+/workspaces/miPrimerRepo/proyecto1/porbando/obj/Debug/net10.0/porbando.AssemblyInfo.cs
+/workspaces/miPrimerRepo/proyecto1/porbando/obj/Debug/net10.0/porbando.csproj.CoreCompileInputs.cache
+/workspaces/miPrimerRepo/proyecto1/porbando/obj/Debug/net10.0/porbando.sourcelink.json
+/workspaces/miPrimerRepo/proyecto1/porbando/obj/Debug/net10.0/porbando.dll
+/workspaces/miPrimerRepo/proyecto1/porbando/obj/Debug/net10.0/refint/porbando.dll
+/workspaces/miPrimerRepo/proyecto1/porbando/obj/Debug/net10.0/porbando.pdb
+/workspaces/miPrimerRepo/proyecto1/porbando/obj/Debug/net10.0/porbando.genruntimeconfig.cache
+/workspaces/miPrimerRepo/proyecto1/porbando/obj/Debug/net10.0/ref/porbando.dll
